@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jbdc_1_1120" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jdbc_1119" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jdbc_1120" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jdbc_1123" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web1_1124" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web2_1125" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web3_1126" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web_1126" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web_1128" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web_1130" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web_1201" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web_kslx" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web_supermarket" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web_supmark" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

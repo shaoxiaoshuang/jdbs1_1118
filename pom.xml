@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+
+  <groupId>org_sxs</groupId>
+  <artifactId>jdbs1_1118</artifactId>
+  <packaging>pom</packaging>
+  <version>1.0-SNAPSHOT</version>
+  <modules>
+    <module></module>
+      <module>jdbc_1120</module>
+      <module></module>
+      <module></module>
+      <module>jdbc_1123</module>
+      <module>web1_1124</module>
+    <module>web1_1124</module>
+      <module>web2_1125</module>
+      <module>web3_1126</module>
+    <module></module>
+    <module>web_kslx</module>
+    <module>web_1126</module>
+      <module>web_1128</module>
+      <module>web_1130</module>
+      <module>web_supermarket</module>
+    <module>web_1201</module>
+      <module>web_supmark</module>
+  </modules>
+
+  <name>jdbs1_1118</name>
+  <!-- FIXME change it to the project's website -->
+  <url>http://www.example.com</url>
+
+  <properties>
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    <maven.compiler.source>1.7</maven.compiler.source>
+    <maven.compiler.target>1.7</maven.compiler.target>
+  </properties>
+
+  <dependencies>
+    <!-- 依赖单元测试包 -->
+    <dependency>
+      <groupId>junit</groupId>
+      <artifactId>junit</artifactId>
+      <version>4.11</version>
+      <scope>test</scope>
+    </dependency>
+    <!-- mysql数据库包 -->
+    <!-- https://mvnrepository.com/artifact/mysql/mysql-connector-java -->
+    <dependency>
+      <groupId>mysql</groupId>
+      <artifactId>mysql-connector-java</artifactId>
+      <version>8.0.16</version>
+    </dependency>
+
+  </dependencies>
+
+</project>

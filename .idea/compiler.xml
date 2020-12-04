@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="jdbc_1120" />
+        <module name="jdbc_1123" />
+        <module name="web1_1124" />
+        <module name="web2_1125" />
+        <module name="web3_1126" />
+        <module name="web_1126" />
+        <module name="web_1128" />
+        <module name="web_1130" />
+        <module name="web_1201" />
+        <module name="web_kslx" />
+        <module name="web_supermarket" />
+        <module name="web_supmark" />
+      </profile>
+      <profile name="Annotation profile for jdbs1_1118" enabled="true">
+        <sourceOutputDir name="../jbdc2_1120/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../jbdc2_1120/target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="jbdc_1_1120" />
+      </profile>
+      <profile name="Annotation profile for jdbc_1119" enabled="true">
+        <sourceOutputDir name="../jdbs2_1119/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../jdbs2_1119/target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="jdbc_1119" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="web_1124" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
